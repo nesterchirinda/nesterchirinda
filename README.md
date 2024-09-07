@@ -5,7 +5,7 @@ I'm Nester, a 2nd-year Computer Science student and aspiring software engineer w
 
 Currently, I am focused on implementing data structures and algorithms to build efficient solutions in my preferred languages, C# and Python.
 
-In my free time, I enjoy converging my creativity and problem-solving skills through game development. 👾
+In my free time, I enjoy combining my creativity and problem-solving skills through game development. 👾
 
 
 **Connect with me**  <a href="https://www.linkedin.com/in/nester-chirinda">
