@@ -1,7 +1,16 @@
-## Hi there 👋
+Hi there 👋
+
+About Me
+
+I'm a 2nd-year Computer Science student and aspiring software engineer with a passion for full-stack development. My preferred programming languages are C# and Python. I'm currently focused on implementing data structures and algorithms to build efficient solutions.
+
+
+Lets Connect!
+
+www.linkedin.com/in/nester-chirinda
 
 <!--
-**nesterchirinda/nesterchirinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
